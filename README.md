@@ -1,2 +1,1 @@
-# CARRITO
-CARRITO CON HTML - CSS - QUERIES
+# cac-proyecto-funkoshop
